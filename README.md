@@ -1,6 +1,6 @@
 ## *Hello!* 👋
 
-I am Paolo, a first year math student ➕➖✖️➗ at the University of the Philippines - Diliman.
+I am Paolo, a sophomore math student at the University of the Philippines - Diliman.
 <!--
 **joserollan4/joserollan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
