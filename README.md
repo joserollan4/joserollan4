@@ -1,4 +1,4 @@
-## *Hello!* 👋
+## *Hi, all!* 👋
 
 I am Paolo, a sophomore math student at the University of the Philippines - Diliman.
 <!--
